@@ -5,7 +5,7 @@ st.title("AI Stock Market Research Assistant")
 query = st.text_input("Enter your question:")
 
 if query:
-    api_url = f"http://127.0.0.1:8000/query?question={query}"
+    api_url = f"https://ai-stock-assistant-backend-49980583353.us-central1.run.app/query?question={query}"
     try:
         response = requests.get(api_url, timeout=10)
         response.raise_for_status()
