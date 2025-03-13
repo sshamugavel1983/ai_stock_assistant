@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/../ai-stock-assistant-backend/.idea/ai-stock-assistant-backend.iml" filepath="$PROJECT_DIR$/../ai-stock-assistant-backend/.idea/ai-stock-assistant-backend.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/ai_stock_assistant.iml" filepath="$PROJECT_DIR$/.idea/ai_stock_assistant.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../stock-ai-agent-backend/.idea/stock_ai_agent_backend.iml" filepath="$PROJECT_DIR$/../stock-ai-agent-backend/.idea/stock_ai_agent_backend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../stock_ai_agent_frontend/.idea/stock_ai_agent_frontend.iml" filepath="$PROJECT_DIR$/../stock_ai_agent_frontend/.idea/stock_ai_agent_frontend.iml" />
     </modules>
   </component>
 </project>

@@ -5,5 +5,7 @@
     <orderEntry type="jdk" jdkName="Python 3.10" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="ai-stock-assistant-backend" />
+    <orderEntry type="module" module-name="stock_ai_agent_backend" />
+    <orderEntry type="module" module-name="stock_ai_agent_frontend" />
   </component>
 </module>

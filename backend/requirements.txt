@@ -1,8 +1,0 @@
-fastapi
-uvicorn
-yfinance
-beautifulsoup4
-requests
-openai
-langchain
-faiss-cpu
